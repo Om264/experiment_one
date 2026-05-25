@@ -1,0 +1,3 @@
+# Alert Log for Rainfall Monitoring System
+# Format: TIMESTAMP - Rainfall: X.XX mm/h - Alert Level: COLOR
+# This file will be populated when alerts are triggered by the weather_monitor.py application
